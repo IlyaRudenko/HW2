@@ -1,0 +1,44 @@
+.target {
+  background: #3b95f1;
+  height: 300px;
+  font-size: 30px;
+  color: white;
+  padding-top: 100px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.target2 {
+  background: #074b94;
+  height: 300px;
+  width: 590px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  box-sizing: border-box;
+}
+
+.target3 {
+  background: #3b95f1;
+  margin: 30px 0 0 0;
+  height: 500px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+  box-sizing: border-box;
+
+}
+
+.all {
+  padding: 30px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+body {
+  margin: 30px
+}
+
