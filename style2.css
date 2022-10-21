@@ -1,0 +1,45 @@
+.card {
+  background: white;
+  margin: 100px 150px 0 150px;
+  width: 80%;
+  height: 750px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.design {
+  background: white;
+  width: 450px;
+  height: 550px;
+  border: 1px solid black;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.Icon {
+  margin: 90px 0 0 100px;
+  border: 1px solid black;
+  width: 250px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background: black
+}
+
+.silver {
+  margin: 35px 0 0 30px;
+  color: #888888;
+  font-size: 30px;
+  width: 400px;
+}
+
+h2 {
+  margin: 160px 0 0 0;
+  font-family: Algerian;
+  font-size: 40px;
+}
